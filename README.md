@@ -17,5 +17,15 @@ git_happen_room_tryhackme
 ![](screenshots/found_.git.png)
 
 
-### now use <a href="https://github.com/internetwache/GitTools.git/" alt="Git tools">GitTools</a> from the 
+### now use <a href="https://github.com/internetwache/GitTools.git/" alt="Git tools">GitTools</a> 
 #### now clone this repository the ./sh file ie ./gitdumper.sh in this tool helps you to download .git repository to your local device
+![](screenshots/cloning_git_repository.png)
+
+## you will find some interesting stuff in the logs 
+### try to figure out it.
+![](screenshots/found_login_log.png)
+
+#### git commands used : git log , git status , git show <commit-id>
+  
+  
+![](screenshots/found_password.png)
