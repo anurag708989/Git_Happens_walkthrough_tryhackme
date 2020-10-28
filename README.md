@@ -6,7 +6,7 @@ git_happen_room_tryhackme
 ![](screenshots/Screenshot_2020-10-27_23-46-33.png)
 
 
-
+## gobuster doesnot shows any hidden directry
 ##  SQl injection and XSS in not working in this case we have to found some other information
 ## even results from burp suit does'nt helping much 
 
